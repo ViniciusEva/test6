@@ -1,6 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center;">
     <img src="https://github.com/ViniciusEva/test6/blob/31adccfbece68d8c3b753bcbc83bf45a93ac3c6b/test-main/Logo/logo%20projeto.png" alt="zenEstoqueLogo" style="max-width: 200px; margin-bottom: 20px;">
-    <h1>Bem-vindos ao WorkUP!</h1>
+    <img src="https://github.com/ViniciusEva/test6/blob/31adccfbece68d8c3b753bcbc83bf45a93ac3c6b/test-main/Logo/logo%20futurize.png" alt="zenEstoqueLogo" style="max-width: 200px; margin-bottom: 20px;">
+    <h1>Bem-vindos ao Zen Estoque!</h1>
 
     
 <p>O WorkUP é um aplicativo inovador criado para ajudar jovens e pessoas sem experiência profissional a conquistarem o primeiro emprego. Nossa missão é conectar talentos às oportunidades, simplificando o início da jornada no mercado de trabalho.</p>
