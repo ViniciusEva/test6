@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center;">
     <img src="https://github.com/ViniciusEva/test6/blob/31adccfbece68d8c3b753bcbc83bf45a93ac3c6b/test-main/Logo/logo%20projeto.png" alt="zenEstoqueLogo" style="max-width: 200px; margin-bottom: 20px;">
-    <img src="https://github.com/ViniciusEva/test6/blob/31adccfbece68d8c3b753bcbc83bf45a93ac3c6b/test-main/Logo/logo%20futurize.png" alt="zenEstoqueLogo" style="max-width: 200px; margin-bottom: 20px;">
+    <img src="https://github.com/ViniciusEva/test6/blob/a2f237584352c6083f1bfb5ef5e330b8d90870c9/test-main/Logo/logo%20futurize.PNG" alt="zenEstoqueLogo" style="max-width: 200px; margin-bottom: 20px;">
     <h1>Bem-vindos ao Zen Estoque!</h1>
 
     
