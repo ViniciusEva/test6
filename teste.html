@@ -1,21 +1,11 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-    <h1>Bem-vindos ao Zen Estoque!</h1>
     <img src="https://github.com/ViniciusEva/test6/blob/31adccfbece68d8c3b753bcbc83bf45a93ac3c6b/test-main/Logo/logo%20projeto.png" alt="zenEstoqueLogo" style="max-width: 200px; margin-bottom: 20px;">
-    
+    <h1>Bem-vindos ao Zen Estoque!</h1>
 
     
-<p>O ZenEstoque é um sistema desenvolvido por alunos da Fatec Ferraz de Vasconcelos, criado para ajudar a digitalizar e otimizar a gestão de estoque (com foco em alimentos perecíveis). Nossa missão é evitar prejuízos e reduzir desperdícios, contribuir para práticas sustentáveis, simplificando a gestão de estoque das empresas.</p>
-
-## 🔹 Objetivo Especifico
-✅ **Cadastro de Objetos Perdidos** – Usuários podem cadastrar objetos perdidos, incluindo fotos e informações detalhadas.  
-✅ **Lista de Objetos Perdidos** – Na tela do administrador, é possível gerenciar todos os objetos cadastrados, permitindo a visualização e o controle.  
-✅ **Contato via Chat do Aplicativo** – Usuários podem entrar em contato por meio do chat do app para marcar a devolução do objeto. 
-
-
-
-
+<p>O WorkUP é um aplicativo inovador criado para ajudar jovens e pessoas sem experiência profissional a conquistarem o primeiro emprego. Nossa missão é conectar talentos às oportunidades, simplificando o início da jornada no mercado de trabalho.</p>
 <h2>Tecnologias Utilizadas</h2>
-<p>O sistema foi desenvolvido utilizando <strong>React Native</strong> e <strong>JavaScript</strong>, tecnologias modernas que garantem uma experiência rápida, responsiva e intuitiva.</p>
+<p>O aplicativo foi desenvolvido utilizando <strong>React Native</strong> e <strong>JavaScript</strong>, tecnologias modernas que garantem uma experiência rápida, responsiva e intuitiva.</p>
 <h2>Repositório do Site e Back-End</h2>
 <p>O site foi criado para que empresas possam publicar vagas de emprego e gerenciar o recrutamento de candidatos. Todo o back-end e a API responsáveis por fornecer dados e gerenciar a aplicação estão disponíveis neste repositório:</p>
 <a href="https://github.com/EduardoFelipeSilva/AppWorkUPTCC" target="_blank" style="color: #007bff; text-decoration: none; font-weight: bold;">Acesse o repositório do App</a>
