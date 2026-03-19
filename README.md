@@ -1,7 +1,7 @@
 # ZenEstoques 📊
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/0d66254c-aa65-4682-90af-ee935406763c" alt="Banner ZenEstoques" width="50%"/>
+   <img src="https://github.com/user-attachments/assets/637d882b-f516-4def-aa12-01b49f79213a" alt="Banner ZenEstoques" width="50%"/>
 </p>
 
 <p align="center">
