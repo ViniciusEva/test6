@@ -1,7 +1,7 @@
 # ZenEstoques 📊
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/0d66254c-aa65-4682-90af-ee935406763c" alt="Banner ZenEstoques" width="100%"/>
+   <img src="https://github.com/user-attachments/assets/0d66254c-aa65-4682-90af-ee935406763c" alt="Banner ZenEstoques" width="50%"/>
 </p>
 
 <p align="center">
@@ -32,10 +32,18 @@ Painel visual para acompanhamento de métricas em tempo real.
 *   **📈 Cards de Resumo:** Visualização rápida de estatísticas.
 *   **🎨 Interface:** Menu lateral (Sidebar) fixo e responsivo, barra de pesquisa e notificações.
 
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/5c9c4444-3f76-46ea-86f8-680abe84807c" width="50%"/>
+</p>
+
 ### 2. Gestão de Estoque (Zen Estoques)
 Módulo dedicado ao cadastro detalhado de produtos.
 *   **📦 Formulário Completo:** Cadastro de Informações Financeiras, Logística (Validade, Armazenamento) e Dados Técnicos.
 *   **🛡️ Validação:** Verificação robusta de tipos de dados (front-end e back-end).
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/de847f84-5042-4b7c-8076-1936c823e75e" width="50%"/>
+</p>
 
 ### 3. Perfil de Usuário e Configurações
 *   **👤 Gestão de Conta:** Edição de avatar e dados pessoais.
